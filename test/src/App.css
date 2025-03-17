@@ -8,6 +8,10 @@
     color: red;
 }
 
+.test {
+    width : 100%;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
